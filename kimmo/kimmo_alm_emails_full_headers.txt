@@ -1,0 +1,12 @@
+Unfortunately, the original text file was lost for good, but all it contained were Kimmo Alm's dox: full email headers from all the emails he sent to Moot. 
+
+_nothing of value was lost_
+
+Here is a fragment of it's metadata from a Google Cache listing.
+
+```
+text file that contains his e-mails with - 4chan
+- [ Vertaal deze pagina ]
+20 Mar 2010 ... Return-path: <kimmoa@gmail.com> Envelope-to: moot@4chan.org ... From: "Kimmo Alm" <kimmoa@gmail.com> Content-Type: text/plain; format=flowed ...
+content.4chan.org/tmp/kimmo_alm_emails_full_headers.txt - In cache
+```
